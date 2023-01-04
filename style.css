@@ -1,0 +1,14 @@
+.headerImage {
+    background-image: url("./images/bg-hero.webp") !important;
+    background-position: center center !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    padding: 10px;
+    height: 60vh;
+}
+
+.logo {
+    height: 60px;
+}
